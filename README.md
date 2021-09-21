@@ -23,11 +23,12 @@
 
 ### ***Screenshots***
 
-###### Gameplay
-![Gameplay](public/images/gameplay.png)
+<div align="center">
+  <pre>
+    <img src="public/images/gameplay.png" height="500" />&nbsp;&nbsp;&nbsp;<img src="public/images/difficulty.png" height="500" />
+  </pre>
+</div>
 
-###### Set Difficulty
-![Set Difficulty](public/images/difficulty.png)
 ***
 
 ### ***Future Updates***
